@@ -1,0 +1,2 @@
+HelloWorldIntent roll a dice
+HelloWorldIntent roll the dice
